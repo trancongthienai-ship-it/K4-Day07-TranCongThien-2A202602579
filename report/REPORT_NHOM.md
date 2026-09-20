@@ -64,6 +64,17 @@ Chạy `ChunkingStrategyComparator().compare()` trên 2-3 tài liệu:
 **Thành viên 1 — Trần Công Thiện**
 - **Loại chiến lược:** Custom Chunker (`HeadingChunker`)
 - **Mô tả & lý do chọn cho chủ đề này:** Do đặc thù tài liệu E-commerce (Shopee) được trình bày bằng Markdown rất rõ ràng với các thẻ Heading (`#`, `##`), việc chia nhỏ (chunk) dựa trên các tiêu đề này sẽ giúp mỗi chunk chứa trọn vẹn một quy định cụ thể (ví dụ: một chunk chỉ nói về "THỜI HẠN GỬI YÊU CẦU").
+**Thành viên 2 — Cao Đức Hiếu**
+- **Loại chiến lược:** RecursiveChunker (`chunk_size=500`)
+- **Mô tả & lý do chọn:** Chia đệ quy ưu tiên ngắt ở đoạn văn (`\n\n`), sau đó đến dòng (`\n`) và câu (`. `). Chiến lược này giúp giữ trọn vẹn mạch lập luận của đoạn văn, các điều khoản không bị xé vụn hoặc cắt ngang giữa câu.
+
+**Thành viên 3 — Trần Thanh Thái**
+- **Loại chiến lược:** FixedSizeChunker (`chunk_size=500, overlap=50`)
+- **Mô tả & lý do chọn:** Chia cố định theo độ dài ký tự kèm cơ chế trượt (sliding window 50 ký tự). Đơn giản, đồng đều kích thước nhưng nhược điểm là dễ cắt ngang giữa một câu quy định.
+
+**Thành viên 4 — Dương Hữu Đạt**
+- **Loại chiến lược:** SentenceChunker (`max_sentences_per_chunk=3`)
+- **Mô tả & lý do chọn:** Chia nhỏ theo ranh giới câu, gom 3 câu thành 1 chunk. Giúp từng câu văn nguyên vẹn ngữ pháp nhưng kích thước các chunk không đều nhau và có thể làm tách rời các câu liên quan mật thiết.
 - **Code snippet:**
 ```python
 import re
@@ -82,6 +93,9 @@ class HeadingChunker:
 |-----------|----------|----------------------|-----------|----------|
 | Thiện | HeadingChunker | 9/10 | Lấy trọn vẹn 1 quy định lớn, không bị mất ý. | Nếu một mục quy định quá dài, chunk sẽ bị phình to vượt mức mô hình. |
 | Baseline | RecursiveChunker | 8/10 | Giữ được đoạn văn tự nhiên (paragraph). | Đôi khi tách một chủ đề (topic) ra làm 2 đoạn rời rạc. |
+| Cao Đức Hiếu | RecursiveChunker (500, 50) | 8/10 | Giữ trọn vẹn từng đoạn văn (`\n\n`), overlap 50 ký tự nối tiếp ngữ cảnh mượt mà. | Đôi khi tách một quy định có nhiều đoạn thành các chunk rời rạc. |
+| Trần Thanh Thái | FixedSizeChunker (500, 50) | 7/10 | Tốc độ xử lý nhanh nhất, kích thước chunk đồng đều dễ kiểm soát token. | Dễ cắt ngang câu hoặc giữa danh sách điều khoản, làm mất từ khóa quan trọng. |
+| Dương Hữu Đạt | SentenceChunker (3 câu) | 7/10 | Đảm bảo nguyên vẹn cấu trúc ngữ pháp từng câu, đọc tự nhiên. | Kém hiệu quả với danh sách gạch đầu dòng không có dấu chấm câu; độ dài chunk biến thiên lớn. |
 
 **Chiến lược nào tốt nhất cho chủ đề này? Tại sao?**
 > *Chiến lược HeadingChunker là phù hợp nhất.* Với văn bản pháp lý / chính sách như Shopee, nội dung được chia mục rất rõ ràng. Cắt theo Heading giúp LLM đọc được tiêu đề mục (ngữ cảnh) cùng toàn bộ diễn giải bên dưới, giúp trả lời cực kỳ chính xác.
