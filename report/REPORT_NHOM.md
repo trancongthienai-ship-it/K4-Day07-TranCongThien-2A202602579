@@ -91,7 +91,7 @@ class HeadingChunker:
 
 | Thành viên | Chiến lược (Strategy) | Điểm truy xuất (/10) | Điểm mạnh | Điểm yếu |
 |-----------|----------|----------------------|-----------|----------|
-| Thiện | HeadingChunker | 9/10 | Lấy trọn vẹn 1 quy định lớn, không bị mất ý. | Nếu một mục quy định quá dài, chunk sẽ bị phình to vượt mức mô hình. |
+| Trần Công Thiện | HeadingChunker | 9/10 | Lấy trọn vẹn 1 quy định lớn, không bị mất ý. | Nếu một mục quy định quá dài, chunk sẽ bị phình to vượt mức mô hình. |
 | Baseline | RecursiveChunker | 8/10 | Giữ được đoạn văn tự nhiên (paragraph). | Đôi khi tách một chủ đề (topic) ra làm 2 đoạn rời rạc. |
 | Cao Đức Hiếu | RecursiveChunker (500, 50) | 8/10 | Giữ trọn vẹn từng đoạn văn (`\n\n`), overlap 50 ký tự nối tiếp ngữ cảnh mượt mà. | Đôi khi tách một quy định có nhiều đoạn thành các chunk rời rạc. |
 | Trần Thanh Thái | FixedSizeChunker (500, 50) | 7/10 | Tốc độ xử lý nhanh nhất, kích thước chunk đồng đều dễ kiểm soát token. | Dễ cắt ngang câu hoặc giữa danh sách điều khoản, làm mất từ khóa quan trọng. |
