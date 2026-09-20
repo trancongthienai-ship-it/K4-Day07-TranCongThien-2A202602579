@@ -1,0 +1,562 @@
+SHOPEE VIỆT NAM - TRẢ HÀNG & HOÀN TIỀN
+Bộ dữ liệu diễn giải dùng cho RAG
+
+Ngày thu thập: 2026-09-20
+Nguồn chính: Trung tâm Trợ giúp Shopee Việt Nam
+Chuyên mục: Trả Hàng & Hoàn Tiền
+URL chuyên mục: https://help.shopee.vn/portal/4/category/61-Tr%25E1%25BA%25A3-H%25C3%25A0ng-Ho%25C3%25A0n-Ti%25E1%25BB%2581n/17788-Nh%25E1%25BB%25AFng-quy-%25C4%2591%25E1%25BB%258Bnh-chung-v%25E1%25BB%2581-Tr%25E1%25BA%25A3-h%25C3%25A0ng%252F-Ho%25C3%25A0n-ti%25E1%25BB%2581n?page=1
+Phạm vi: 7 nhóm nội dung, 14 bài hướng dẫn.
+
+LƯU Ý SỬ DỤNG
+- Đây là bản diễn giải có cấu trúc, không phải bản sao nguyên văn của các bài viết.
+- Chính sách có thể được Shopee thay đổi theo từng thời điểm. Khi dùng để tư vấn hoặc giải quyết khiếu nại, cần kiểm tra lại URL nguồn.
+- Các mốc “ngày làm việc” không bao gồm những ngày nghỉ được Shopee nêu trong từng chính sách.
+- Nội dung tập trung vào chính sách dành cho Người mua tại Shopee Việt Nam.
+
+======================================================================
+TỔNG QUAN NHANH
+======================================================================
+
+1. Shopee không hỗ trợ đổi sang một sản phẩm khác. Nếu hàng có vấn đề, Người mua dùng quy trình Trả hàng/Hoàn tiền.
+2. Thời hạn gửi yêu cầu thông thường là 15 ngày từ khi đơn được ghi nhận giao thành công. Thực phẩm tươi sống và đông lạnh có thời hạn ngắn hơn: 24 giờ, trừ trường hợp chưa nhận được hàng.
+3. Với đơn do Người bán tự vận chuyển, thời hạn là 15 ngày từ lúc Người mua xác nhận đã nhận hàng; nếu không xác nhận, mốc tối đa là 20 ngày từ trạng thái lấy hàng thành công.
+4. Các lý do chính gồm: chưa nhận hàng, thiếu hàng, giao sai, bể vỡ hoặc rò rỉ, hàng lỗi, khác mô tả, hàng đã qua sử dụng, nghi giả/nhái và đổi ý khi đủ điều kiện.
+5. Nên quay video mở kiện liên tục, rõ mã vận đơn, sáu mặt kiện hàng, quá trình mở và tình trạng sản phẩm.
+6. Nếu Shopee yêu cầu bổ sung bằng chứng, thời gian phản hồi thường là 24 giờ theo thông báo trên ứng dụng.
+7. Yêu cầu thường được xử lý trong khoảng 3-5 ngày làm việc. Kết quả có thể là hoàn tiền không cần trả hàng hoặc trả hàng rồi hoàn tiền.
+8. Nếu phải gửi trả, Người mua thường cần hoàn tất gửi hàng trong 6 ngày kể từ thông báo chấp nhận trả hàng.
+9. Lấy hàng tại nhà và gửi tại bưu cục do hệ thống đề xuất thường được miễn phí. Tự sắp xếp thì Người mua trả trước phí và được xem xét hỗ trợ sau khi đủ điều kiện.
+10. Tiền hoàn được nhận trong khoảng 24 giờ đến 14 ngày làm việc tùy phương thức thanh toán và ngân hàng.
+
+======================================================================
+NHÓM 1 - NHỮNG QUY ĐỊNH CHUNG
+======================================================================
+
+---------------------------------------------------------------------
+DOC_ID: SHOPEE-THHT-001
+TITLE: Những điều cần biết về Trả hàng do “Đổi ý/không còn nhu cầu”
+SOURCE_URL: https://help.shopee.vn/portal/4/article/204305
+---------------------------------------------------------------------
+
+TÓM TẮT
+Lý do “Đổi ý/không còn nhu cầu” dành cho trường hợp Người mua muốn trả sản phẩm dù sản phẩm không có lỗi. Sản phẩm phải giữ gần như nguyên trạng ban đầu và chỉ được chấp nhận đối với tài khoản, ngành hàng và tình huống đủ điều kiện.
+
+ĐỐI TƯỢNG VÀ ĐIỀU KIỆN CHUNG
+- Áp dụng cho một số Người mua thuộc hạng Vàng, Kim Cương hoặc đang dùng gói ShopeeVIP.
+- Yêu cầu phải được gửi trong thời hạn Trả hàng/Hoàn tiền.
+- Sản phẩm không thuộc nhóm hạn chế trả hàng.
+- Bao bì, tem, nhãn, hộp, túi và phụ kiện phải đầy đủ, nguyên vẹn.
+- Sản phẩm chưa được sử dụng, kích hoạt, lắp đặt, thử vận hành hoặc làm hư hỏng.
+- Shopee có thể đánh giá thêm tùy loại hàng và từng thời điểm.
+
+TRƯỜNG HỢP THƯỜNG KHÔNG ĐƯỢC CHẤP NHẬN
+- Thiết bị điện tử đã kích hoạt hoặc mất tem niêm phong, tem bảo hành.
+- Hàng liên quan sức khỏe và vệ sinh cá nhân đã mặc hoặc dùng thử.
+- Một số hàng giá trị cao, quá khổ hoặc cồng kềnh.
+- Bao bì niêm phong đã bị mở chỉ để kiểm tra cũng có thể làm sản phẩm mất điều kiện trả do đổi ý.
+- Thiếu hộp, phụ kiện, tài liệu, thẻ bảo hành hoặc quà tặng đi kèm.
+
+NHÓM HÀNG HẠN CHẾ TIÊU BIỂU
+- Điện tử và công nghệ có cơ chế niêm phong, kích hoạt hoặc bảo hành.
+- Thiết bị y tế cá nhân, đồ mẹ và bé, đồ lót, đồ bơi, vớ/tất.
+- Thực phẩm tươi, đông lạnh, chế biến, bánh tươi, cây và hoa tươi.
+- Phương tiện giao thông, dầu nhớt, vàng và thẻ vàng.
+
+TIÊU CHÍ THEO NHÓM HÀNG
+- Thời trang: được thử nhanh trong nhà để kiểm tra kích cỡ hoặc kiểu dáng, nhưng phải còn mới, chưa giặt/ủi, không bẩn, rách hoặc ám mùi; nhãn mác và bao bì đầy đủ.
+- Hàng tiêu dùng nhanh: bao bì, niêm phong và tem nhãn chưa mở; hàng chưa sử dụng.
+- Đồ đời sống: chưa tháo lắp hoặc lắp thử; không trầy xước; còn đủ bộ phận và phụ kiện.
+- Phụ kiện điện tử: bao bì và niêm phong nguyên vẹn; trả đủ cáp, sạc, điều khiển, hướng dẫn và bảo hành nếu có.
+
+KẾT LUẬN THỰC HÀNH
+Nếu có ý định dùng quyền trả hàng do đổi ý, không nên mở seal, kích hoạt hoặc lắp thử sản phẩm. Cần giữ toàn bộ bao bì và phụ kiện cho đến khi chắc chắn sẽ giữ hàng.
+
+---------------------------------------------------------------------
+DOC_ID: SHOPEE-THHT-002
+TITLE: Những quy định chung về Trả hàng/Hoàn tiền của Shopee
+SOURCE_URL: https://help.shopee.vn/portal/4/article/188931
+---------------------------------------------------------------------
+
+NGUYÊN TẮC
+- Shopee xử lý trả hàng và/hoặc hoàn tiền, không cung cấp phương án đổi trực tiếp sang sản phẩm khác.
+- Nếu đơn được phép đồng kiểm và phát hiện vấn đề tại lúc giao, Người mua có thể từ chối nhận.
+- Sau khi nhận hàng, Người mua vẫn có thể tạo yêu cầu nếu còn trong thời hạn.
+
+THỜI HẠN GỬI YÊU CẦU
+- Thực phẩm tươi sống/đông lạnh: 24 giờ từ lúc giao thành công, ngoại trừ lý do chưa nhận hàng.
+- Đơn do Người bán tự vận chuyển: 15 ngày từ lúc bấm đã nhận hàng; nếu không bấm, tối đa 20 ngày từ lúc lấy hàng thành công.
+- Các đơn khác: 15 ngày từ lúc hệ thống ghi nhận giao hàng thành công.
+- Việc đã xác nhận nhận hàng không làm mất quyền gửi yêu cầu nếu vẫn còn trong thời hạn áp dụng.
+
+CÁC LÝ DO ĐƯỢC XEM XÉT
+- Chưa nhận được hàng dù trạng thái đã giao hoặc đơn trả trước quá thời gian dự kiến.
+- Thiếu sản phẩm, bộ phận, phụ kiện hoặc quà tặng.
+- Người bán gửi sai sản phẩm.
+- Bể/vỡ nặng; trầy, xước hoặc nứt; rò rỉ chất lỏng; bao bì nhà sản xuất hư hại; hoặc dạng hư hỏng khác.
+- Sản phẩm lỗi, không thực hiện chức năng được mô tả.
+- Khác rõ ràng về chất liệu, màu sắc, thông số hoặc kiểu dáng.
+- Có dấu hiệu đã qua sử dụng trong khi không được công bố là hàng đã dùng.
+- Có dấu hiệu giả hoặc nhái thương hiệu.
+- Đổi ý, với điều kiện hàng nguyên trạng và tài khoản đủ điều kiện.
+
+THỜI GIAN XỬ LÝ
+- Phản hồi thường có trong 3-5 ngày làm việc.
+- Người mua nên kiểm tra mục thông báo đơn hàng để bổ sung thông tin kịp thời.
+
+HOÀN MÃ GIẢM GIÁ VÀ SHOPEE XU
+- Hoàn tiền ngay cho toàn bộ đơn: mã thường chỉ được hoàn đối với một số lý do như chưa nhận hàng hoặc kiện rỗng; Shopee Xu được hoàn theo phạm vi sản phẩm.
+- Hoàn tiền ngay cho một phần đơn: thường không hoàn mã; Xu được hoàn theo tỷ lệ giá trị.
+- Trả hàng và hoàn tiền toàn bộ đơn: có thể hoàn mã và hoàn Xu tương ứng.
+- Trả một phần đơn: thường không hoàn mã; Xu được hoàn theo tỷ lệ.
+- Một số voucher đặc biệt không được khôi phục nếu đã hết hiệu lực hoặc hết lượt dùng.
+- Shop Voucher và mã miễn phí vận chuyển nhìn chung không được hoàn.
+- Mã đủ điều kiện thường được cấp lại trong 48 giờ sau khi yêu cầu hoàn tiền được chấp nhận; điều kiện và hạn dùng mới có thể khác mã cũ.
+- Shopee Xu thường được hoàn sau khi khiếu nại kết thúc và hoàn tiền được duyệt.
+
+---------------------------------------------------------------------
+DOC_ID: SHOPEE-THHT-003
+TITLE: Sản phẩm hạn chế trả hàng là gì?
+SOURCE_URL: https://help.shopee.vn/portal/4/article/79465
+---------------------------------------------------------------------
+
+ĐỊNH NGHĨA
+Đây là các mặt hàng có tính đặc thù, dễ hư hỏng hoặc đòi hỏi điều kiện bảo quản nghiêm ngặt. Nhóm này không được dùng lý do “Đổi ý” để trả hàng. Nếu hàng có lỗi thực tế, Shopee vẫn có thể xem xét theo lý do khiếu nại tương ứng.
+
+DANH MỤC TIÊU BIỂU
+- Sức khỏe, vệ sinh và đồ cá nhân: thiết bị y tế cá nhân, khẩu trang/găng tay y tế, đồ mẹ và bé, đồ lót, đồ bơi, vớ/tất, thuốc không kê đơn.
+- Thực phẩm và hàng mau hỏng: thực phẩm tươi, đông lạnh, chế biến, bánh tươi, cây và hoa tươi.
+- Hàng đặc thù khi vận chuyển: phương tiện, dầu nhớt, trang sức vàng, thẻ vàng.
+- Sản phẩm số và dịch vụ: SIM, thẻ điện thoại, voucher dịch vụ, thẻ quà tặng.
+- Các mặt hàng khác được Shopee công bố tại trang sản phẩm hoặc kênh thông tin chính thức.
+
+LƯU Ý
+Danh mục có thể thay đổi. Khi xây dựng hệ thống RAG, nên ưu tiên thông tin mới nhất ở trang sản phẩm và URL nguồn của bài chính sách.
+
+======================================================================
+NHÓM 2 - GỬI YÊU CẦU TRẢ HÀNG
+======================================================================
+
+---------------------------------------------------------------------
+DOC_ID: SHOPEE-THHT-004
+TITLE: Hướng dẫn chuẩn bị bằng chứng khi yêu cầu Trả hàng/Hoàn tiền
+SOURCE_URL: https://help.shopee.vn/portal/4/article/79467
+---------------------------------------------------------------------
+
+CHƯA NHẬN ĐƯỢC HÀNG
+Người mua thường không phải tải bằng chứng; Shopee dựa trên dữ liệu theo dõi đơn hàng để xem xét.
+
+ĐÃ NHẬN HÀNG NHƯNG HÀNG CÓ VẤN ĐỀ
+Video mở kiện là bằng chứng quan trọng. Video nên:
+- Liên tục, không cắt ghép.
+- Rõ nét, góc quay không bị che.
+- Cho thấy đủ sáu mặt của kiện hàng trước khi mở.
+- Thể hiện mã vận đơn khớp đơn hàng.
+- Ghi lại toàn bộ quá trình mở kiện.
+- Quay rõ số lượng, tình trạng, tem và niêm phong của sản phẩm.
+
+BẰNG CHỨNG CHO HÀNG GIẢ/NHÁI
+- Video quét QR hoặc kiểm tra số seri trên kênh xác thực của hãng.
+- Ảnh/video đối chiếu với hàng chính hãng về logo, tem, mã, vật liệu, màu sắc và hoàn thiện.
+- Ảnh/video so sánh bao bì thực nhận với bao bì chuẩn.
+
+GIỚI HẠN TỆP VÀ CÁCH GỬI
+- Ảnh tối đa 5 MB mỗi tệp.
+- Video tối đa 100 MB và tối đa 1 phút.
+- Nếu tệp vượt giới hạn, có thể đăng lên YouTube hoặc Google Drive ở chế độ người có liên kết truy cập được, rồi đưa đường dẫn vào phần mô tả.
+- Có thể bổ sung lịch sử chat với Người bán và tài liệu liên quan.
+
+BỔ SUNG BẰNG CHỨNG
+Nếu Shopee gửi yêu cầu bổ sung, Người mua cần thực hiện trong thời hạn ghi trên thông báo; bài hướng dẫn nêu mốc 24 giờ. Hết hạn, quyết định có thể dựa trên hồ sơ đã nộp.
+
+BẰNG CHỨNG KHI GỬI TRẢ
+Nên quay video đóng gói liên tục, thể hiện tình trạng sản phẩm, tem/niêm phong, phụ kiện và toàn bộ quá trình đóng kiện.
+
+---------------------------------------------------------------------
+DOC_ID: SHOPEE-THHT-005
+TITLE: Hướng dẫn gửi yêu cầu Trả hàng/Hoàn tiền
+SOURCE_URL: https://help.shopee.vn/portal/4/article/79233
+---------------------------------------------------------------------
+
+CÁCH 1 - TỪ ĐƠN HÀNG
+1. Mở ứng dụng, vào Tôi, rồi chọn đơn đang chờ giao hoặc đã giao.
+2. Mở đơn cần xử lý và chọn chức năng Trả hàng/Hoàn tiền.
+3. Chọn tình huống: đã nhận nhưng hàng có vấn đề, hoặc chưa nhận/nhận thiếu.
+4. Chọn sản phẩm bị khiếu nại nếu đơn có nhiều mặt hàng.
+5. Chọn lý do cụ thể.
+6. Chọn phương án xử lý nếu hệ thống yêu cầu.
+7. Nhập mô tả, tải ảnh/video và cung cấp email liên hệ.
+8. Kiểm tra lại rồi gửi yêu cầu.
+
+CÁCH 2 - QUA TRÒ CHUYỆN VỚI SHOPEE
+1. Từ mục Tôi, mở Trò Chuyện Với Shopee.
+2. Chọn nhóm khiếu nại trả hàng/hoàn tiền.
+3. Chọn đơn hàng.
+4. Xác nhận đã nhận hay chưa nhận, chọn lý do, tải bằng chứng và gửi.
+
+SAU KHI GỬI
+- Thời gian xử lý thường khoảng 3-5 ngày làm việc.
+- Kết quả được gửi trong phần cập nhật đơn hàng và/hoặc email.
+- Sau khi được duyệt, tiền hoàn mất khoảng 1-14 ngày làm việc tùy phương thức thanh toán.
+- Nếu kết quả là trả hàng rồi hoàn tiền, Người mua phải chọn cách gửi trả và hoàn tất đúng hạn.
+
+---------------------------------------------------------------------
+DOC_ID: SHOPEE-THHT-006
+TITLE: Cẩm nang Trả hàng hoàn tiền
+SOURCE_URL: https://help.shopee.vn/portal/4/article/79258
+---------------------------------------------------------------------
+
+VAI TRÒ CỦA BÀI VIẾT
+Đây là trang mục lục điều hướng tới các câu hỏi thường gặp, không phải một chính sách độc lập. Nội dung được chia thành bốn cụm:
+
+GỬI YÊU CẦU
+- Khả năng đổi sản phẩm sau khi nhận.
+- Thời hạn tạo yêu cầu.
+- Quyền khiếu nại sau khi bấm đã nhận hàng.
+- Xử lý quà tặng, đơn chưa nhận, đơn Mua Kèm Deal Sốc.
+- Bằng chứng cần cung cấp và điều kiện được trả/hoàn.
+
+XỬ LÝ YÊU CẦU
+- Phản hồi của Người bán.
+- Ý nghĩa trạng thái Shopee đang xem xét.
+- Cách Shopee ra quyết định.
+
+TRẢ HÀNG
+- Cách gửi về Người bán hoặc kho Shopee.
+- Cách đóng gói, ghi thông tin, theo dõi hành trình và chính sách phí.
+
+HOÀN TIỀN
+- Thời gian hoàn sau khi gửi trả thành công.
+- Kiểm tra hoàn tiền ShopeePay.
+- Hoàn đối với trả góp/thẻ tín dụng.
+- Hoàn phí vận chuyển, voucher và Shopee Xu.
+
+GỢI Ý CHO RAG
+Nên dùng bài này như nút điều hướng chủ đề. Khi trả lời chi tiết, ưu tiên tài liệu chuyên biệt tương ứng trong bộ dữ liệu này.
+
+======================================================================
+NHÓM 3 - THEO DÕI YÊU CẦU TRẢ HÀNG
+======================================================================
+
+---------------------------------------------------------------------
+DOC_ID: SHOPEE-THHT-007
+TITLE: Theo dõi tình trạng Trả hàng/Hoàn tiền trên Shopee
+SOURCE_URL: https://help.shopee.vn/portal/4/article/79298
+---------------------------------------------------------------------
+
+TRÊN ỨNG DỤNG
+- Vào Tôi > Đơn Mua > Trả hàng/Hoàn tiền.
+- Chọn sản phẩm hoặc đơn cần kiểm tra.
+- Mở phần chi tiết để xem trạng thái ở đầu màn hình.
+- Ngoài ra, vào Thông báo > Cập nhật đơn hàng để đọc yêu cầu và kết quả mới.
+
+NGOÀI ỨNG DỤNG
+- Cho phép ứng dụng gửi thông báo trên điện thoại.
+- Cập nhật đúng email liên kết với tài khoản để nhận thư.
+
+QUA TRÒ CHUYỆN VỚI SHOPEE
+- Mở Tôi > Trò Chuyện Với Shopee.
+- Chọn chức năng kiểm tra yêu cầu trả hàng/hoàn tiền.
+- Chọn đúng đơn và xem phản hồi tự động.
+
+KHUYẾN NGHỊ
+Nên kiểm tra thông báo hằng ngày khi yêu cầu đang được xử lý, vì một số yêu cầu bổ sung bằng chứng có thời hạn ngắn.
+
+======================================================================
+NHÓM 4 - SHOPEE XEM XÉT
+======================================================================
+
+---------------------------------------------------------------------
+DOC_ID: SHOPEE-THHT-008
+TITLE: Quy trình Shopee xử lý yêu cầu Trả hàng/Hoàn tiền
+SOURCE_URL: https://help.shopee.vn/portal/4/article/190242
+---------------------------------------------------------------------
+
+TRẠNG THÁI VÀ THỜI GIAN
+- Một số yêu cầu được chấp nhận trả hàng ngay.
+- Những hồ sơ cần rà soát sẽ hiển thị trạng thái Shopee đang xem xét.
+- Kết quả thường được gửi trong 3-5 ngày làm việc qua thông báo đơn hàng hoặc email; trường hợp chờ các bên bổ sung thông tin có thể lâu hơn.
+
+BỔ SUNG BẰNG CHỨNG
+- Có thể mở trực tiếp thông báo yêu cầu bổ sung rồi tải ảnh/video.
+- Hoặc vào Tôi > Trả hàng/Hoàn tiền > chọn đơn > đăng tải bằng chứng.
+- Nếu nộp trễ, Shopee có thể chỉ dùng tài liệu đã có để ra quyết định.
+
+HAI KẾT QUẢ CHÍNH
+- Hoàn tiền ngay: Người mua nhận tiền mà không phải gửi trả sản phẩm.
+- Trả hàng và hoàn tiền: Người mua chọn phương thức trả và gửi hàng trong 6 ngày từ khi nhận thông báo.
+
+TIÊU CHÍ ĐÁNH GIÁ HÀNG HOÀN
+Shopee đối chiếu lý do khiếu nại với các yếu tố như: hàng đã dùng hay chưa, hộp đã mở hay chưa, phụ kiện còn đủ không, có bể vỡ không, bảo hành còn không và tem/nhãn/niêm phong có nguyên không.
+
+MỘT SỐ ÁP DỤNG TIÊU BIỂU
+- Giao sai hoặc khác mô tả: thường yêu cầu hàng chưa sử dụng, đầy đủ phụ kiện, không bị Người mua làm vỡ và còn tem/nhãn liên quan.
+- Hàng lỗi, giả/nhái hoặc đã qua sử dụng: cần giữ đầy đủ phụ kiện và tránh làm phát sinh thêm hư hại.
+- Đổi ý: yêu cầu nghiêm ngặt nhất; hàng, hộp, seal, tem, phụ kiện và bảo hành phải đầy đủ, nguyên trạng.
+
+KHI KHÔNG ĐỒNG Ý KẾT QUẢ
+Nếu cho rằng quá trình xử lý có sai sót, Người mua có thể liên hệ chăm sóc khách hàng. Shopee cho biết quyết định dựa trên bằng chứng của các bên.
+
+PHÒNG TRÁNH MẤT QUYỀN LỢI
+- Phản hồi đúng hạn; quá hạn có thể được hiểu là đồng ý đề xuất hoặc dẫn đến đóng khiếu nại.
+- Đọc kỹ số tiền Người bán đề xuất trước khi chấp nhận.
+- Nếu chưa đồng ý, tiếp tục trao đổi hoặc yêu cầu Shopee hỗ trợ.
+- Nộp bằng chứng rõ ràng trước khi có quyết định cuối cùng.
+
+HÀNG BỊ TRẢ LẠI CHO NGƯỜI MUA
+Nếu hàng gửi về không đạt tiêu chí, sản phẩm có thể được hoàn lại cho Người mua. Với hàng có nhãn Shopee Xử Lý, theo dõi trong chi tiết trả hàng. Với một số hàng khác, theo dõi bằng mã vận đơn do Shopee cung cấp. Khi nhận lại, nên quay video mở kiện vì quy trình này không hỗ trợ đồng kiểm.
+
+======================================================================
+NHÓM 5 - TRẢ HÀNG
+======================================================================
+
+---------------------------------------------------------------------
+DOC_ID: SHOPEE-THHT-009
+TITLE: Cách theo dõi tình trạng vận chuyển hàng hoàn trả
+SOURCE_URL: https://help.shopee.vn/portal/4/article/189476
+---------------------------------------------------------------------
+
+LẤY HÀNG TẠI NHÀ HOẶC GỬI TẠI BƯU CỤC
+Vào Tôi > Trả hàng/Hoàn tiền > chọn đơn > Xem chi tiết > Chi tiết. Ứng dụng hiển thị hành trình và thời gian giao dự kiến.
+
+TỰ SẮP XẾP
+Dùng mã vận đơn để tra cứu trực tiếp trên trang của đơn vị vận chuyển đã chọn. Cần giữ hóa đơn và mã vận đơn cho đến khi khiếu nại kết thúc.
+
+---------------------------------------------------------------------
+DOC_ID: SHOPEE-THHT-010
+TITLE: Cách đóng gói đơn hàng hoàn trả
+SOURCE_URL: https://help.shopee.vn/portal/4/article/79508
+---------------------------------------------------------------------
+
+VẬT LIỆU CẦN CHUẨN BỊ
+- Hộp carton hoặc bao bì vận chuyển.
+- Băng dính.
+- Vật liệu chèn như giấy, xốp hoặc túi khí.
+- Phiếu gửi in từ hệ thống hoặc thông tin vận đơn viết tay.
+
+QUY TRÌNH
+- Cho sản phẩm, hộp của nhà sản xuất, giấy tờ, phụ kiện và quà tặng đi kèm vào kiện.
+- Đóng theo tiêu chuẩn Shopee hoặc tương đương cách Người bán đã đóng.
+- Quay video liên tục trong suốt quá trình đóng gói.
+- Dùng một hộp vận chuyển bên ngoài để bảo vệ hộp sản phẩm.
+
+HÀNG DỄ VỠ HOẶC CHỨA CHẤT LỎNG
+- Đóng chặt nắp.
+- Chọn thùng vừa kích thước.
+- Chèn vật liệu chống va đập và hạn chế rò rỉ.
+
+HỘP VẬN CHUYỂN VÀ HỘP NHÀ SẢN XUẤT
+- Hộp vận chuyển là lớp bên ngoài, thường là carton trơn.
+- Hộp nhà sản xuất mang logo, hình ảnh và thông tin sản phẩm.
+- Không viết, dán vận đơn hoặc làm hỏng hộp nhà sản xuất; chỉ ghi trên lớp đóng gói vận chuyển.
+
+GHI THÔNG TIN TRẢ HÀNG
+- Lấy mã vận đơn trong chi tiết yêu cầu trả hàng.
+- Với lấy hàng tại nhà/gửi bưu cục: dán phiếu hoặc ghi mã Shopee cung cấp trên kiện.
+- Với tự sắp xếp: ghi rõ đây là kiện trả hàng Shopee và gửi đúng địa chỉ được cung cấp.
+
+THỜI HẠN
+Kiểm tra hạn trả hàng trong trang chi tiết. Nếu hết hạn mà kiện chưa được bàn giao cho đơn vị vận chuyển, yêu cầu có thể tự động bị hủy.
+
+HÀNG CỒNG KỀNH
+Theo bài hướng dẫn, hàng có khối lượng thực hoặc quy đổi từ 10 kg trở lên có thể thuộc nhóm cồng kềnh; giới hạn được nêu là 200 kg và cạnh dài nhất 320 cm. Quy định thực tế còn phụ thuộc đơn vị vận chuyển.
+
+---------------------------------------------------------------------
+DOC_ID: SHOPEE-THHT-011
+TITLE: Các phương thức gửi hàng hoàn trả và phí hoàn trả
+SOURCE_URL: https://help.shopee.vn/portal/4/article/189477
+---------------------------------------------------------------------
+
+PHƯƠNG THỨC 1 - ĐƠN VỊ VẬN CHUYỂN ĐẾN LẤY
+- Miễn phí trả hàng.
+- Chọn thời gian, địa chỉ; đóng gói; dán phiếu hoặc ghi mã; giao cho bưu tá.
+- Đơn vị vận chuyển có thể thử lấy tối đa ba lần trong khoảng thời gian quy định.
+- Nếu không đến đúng hẹn, có thể liên hệ đơn vị vận chuyển, mang kiện ra bưu cục phù hợp hoặc đổi phương thức trên ứng dụng.
+
+PHƯƠNG THỨC 2 - TRẢ TẠI BƯU CỤC
+- Miễn phí khi dùng đơn vị do hệ thống đề xuất.
+- Chọn hãng vận chuyển, đóng gói, ghi mã, rồi mang đến bưu cục.
+- Cho nhân viên xem mã vận đơn để được miễn phí theo quy trình.
+
+PHƯƠNG THỨC 3 - TỰ SẮP XẾP
+- Người mua trả phí trước.
+- Gửi về đúng địa chỉ Shopee cung cấp và không dùng dịch vụ thu hộ.
+- Phải tải bằng chứng gửi hàng lên chi tiết yêu cầu.
+- Hóa đơn cần có mã vận đơn, số điện thoại và đúng địa chỉ người nhận.
+
+HOÀN PHÍ VẬN CHUYỂN BAN ĐẦU
+- Nếu trả toàn bộ sản phẩm và được hoàn toàn bộ giá trị đã thanh toán, phí vận chuyển ban đầu có thể được hoàn.
+- Nếu chỉ khiếu nại một phần đơn, phí vận chuyển ban đầu thường không được hoàn.
+
+HỖ TRỢ PHÍ GỬI TRẢ KHI TỰ SẮP XẾP
+- Shopee Mall: hoàn khoản phí theo điều kiện sau khi yêu cầu được chấp nhận.
+- Không phải Shopee Mall: hỗ trợ bằng Shopee Xu với mức cố định được bài viết công bố.
+- Cùng tỉnh/thành với Người bán: 25.000 Shopee Xu.
+- Khác tỉnh/thành: 40.000 Shopee Xu.
+- Thời gian hỗ trợ thường 3-5 ngày làm việc sau khi đáp ứng đủ điều kiện.
+
+ĐIỀU KIỆN NHẬN HỖ TRỢ
+- Yêu cầu trả hàng và hoàn tiền được chấp nhận.
+- Thông tin hãng vận chuyển, mã vận đơn được nhập đúng và đầy đủ.
+- Hành trình có thể kiểm tra và thể hiện giao thành công.
+- Người bán hoặc Shopee đồng ý hoàn tiền.
+- Đơn ban đầu không thuộc phương thức Người bán tự vận chuyển.
+
+LƯU Ý
+- Gửi hỏa tốc vẫn có thể được xem xét hỗ trợ, nhưng nếu hành trình không xác minh được khi phát sinh tranh chấp thì phí có thể không được hoàn.
+- Shopee Xu cấp từ 15/01/2026 theo bài viết có hạn dùng hai tháng và hết vào cuối tháng thứ hai.
+
+======================================================================
+NHÓM 6 - NGƯỜI BÁN KHIẾU NẠI / ĐỀ XUẤT
+======================================================================
+
+---------------------------------------------------------------------
+DOC_ID: SHOPEE-THHT-012
+TITLE: Hướng dẫn Người mua trả lời đề xuất Hoàn Tiền Ngay của Người bán
+SOURCE_URL: https://help.shopee.vn/portal/4/article/190387
+---------------------------------------------------------------------
+
+BỐI CẢNH
+Sau khi Người mua tạo yêu cầu, Người bán có thể đề nghị hoàn ngay một phần hoặc toàn bộ giá trị để rút ngắn quá trình.
+
+CÁCH XEM ĐỀ XUẤT
+- Vào Tôi > Trả hàng/Hoàn tiền.
+- Chọn đơn và mở chi tiết.
+- Kiểm tra kỹ số tiền được đề xuất.
+
+NẾU ĐỒNG Ý
+- Chọn phần trao đổi rồi xác nhận đồng ý.
+- Tiền được hoàn theo số đã chấp nhận và thường không phải gửi trả sản phẩm.
+
+NẾU KHÔNG ĐỒNG Ý
+- Tiếp tục chat để thương lượng số tiền hoặc phương án.
+- Hoặc chọn tiếp tục trả hàng để theo đuổi yêu cầu trả sản phẩm và nhận số tiền theo đề nghị ban đầu.
+
+CẢNH BÁO
+Chỉ xác nhận sau khi đã kiểm tra số tiền. Việc chấp nhận đề xuất có thể kết thúc quy trình theo mức hoàn của Người bán.
+
+======================================================================
+NHÓM 7 - HOÀN TIỀN
+======================================================================
+
+---------------------------------------------------------------------
+DOC_ID: SHOPEE-THHT-013
+TITLE: Thời gian nhận tiền hoàn và cách kiểm tra tiền hoàn
+SOURCE_URL: https://help.shopee.vn/portal/4/article/189473
+---------------------------------------------------------------------
+
+MỐC THỜI GIAN THEO PHƯƠNG THỨC
+- Thanh toán khi nhận hàng hoặc QR, hoàn về ShopeePay: khoảng 24 giờ nếu ví hoạt động bình thường.
+- Thanh toán khi nhận hàng hoặc QR, hoàn về tài khoản ngân hàng mặc định: khoảng 2 ngày làm việc, tùy ngân hàng.
+- Thanh toán bằng ứng dụng ngân hàng: hoàn về tài khoản ban đầu, khoảng 7 ngày làm việc.
+- ShopeePay: khoảng 24 giờ nếu ví hợp lệ.
+- Thẻ nội địa NAPAS: khoảng 2-5 ngày làm việc.
+- Thẻ tín dụng/ghi nợ: khoảng 7-14 ngày làm việc.
+- Apple Pay hoặc Google Pay: về thẻ liên kết, khoảng 7-14 ngày làm việc.
+- SPayLater: cập nhật trong mục giao dịch, thường khoảng 24 giờ; cách cấn trừ phụ thuộc trạng thái đơn và hóa đơn.
+
+ĐIỀU KIỆN VÀ LƯU Ý
+- Nếu Người bán khiếu nại, Shopee có thể cần thêm 3-5 ngày làm việc để xem xét.
+- Tự sắp xếp gửi trả: phí trả hàng được xử lý riêng theo chính sách hỗ trợ.
+- Thẻ tín dụng/ghi nợ chỉ được hoàn về đúng thẻ hoặc tài khoản đã dùng thanh toán.
+- Hoàn về ngân hàng cần đúng tên chủ tài khoản, số tài khoản và ngân hàng.
+- Hoàn về ShopeePay yêu cầu ví còn hoạt động và liên kết với tài khoản.
+- Nếu thông tin ngân hàng hoặc ví không hợp lệ, Người mua phải cập nhật lại để nhận tiền.
+
+THANH TOÁN KẾT HỢP SPAYLATER
+- Phần SPayLater có thể về hạn mức khả dụng trong 24 giờ hoặc được cấn trừ vào hóa đơn trong 3-5 ngày làm việc.
+- Phần thanh toán bằng phương thức khác được hoàn theo kênh tương ứng, thường về ShopeePay hoặc số dư tài khoản Shopee theo thiết lập của giao dịch.
+
+---------------------------------------------------------------------
+DOC_ID: SHOPEE-THHT-014
+TITLE: Kiểm tra tiền hoàn vào SPayLater
+SOURCE_URL: https://help.shopee.vn/portal/4/article/164831
+---------------------------------------------------------------------
+
+CÁCH KIỂM TRA
+Sau khi hoàn tiền được chấp nhận, giao dịch hoàn thường xuất hiện trong mục Giao dịch của SPayLater trong vòng 24 giờ, với nội dung thể hiện khoản hoàn trả.
+
+TRƯỜNG HỢP 1 - YÊU CẦU TRƯỚC KHI ĐƠN HOÀN THÀNH
+- Giao dịch trả góp có thể chưa được ghi nhận với ngân hàng.
+- Khi được hoàn, giao dịch bị hủy; Người mua không phải tiếp tục trả góp và chưa phát sinh phí chuyển đổi.
+
+TRƯỜNG HỢP 2 - YÊU CẦU SAU KHI ĐƠN HOÀN THÀNH
+- SPayLater ghi nhận khoản hoàn bằng giá trị hàng, không gồm phí chuyển đổi trả góp.
+- Khoản hoàn dùng để cấn trừ hóa đơn chưa thanh toán gần nhất; phần dư tiếp tục cấn trừ các hóa đơn sau.
+- Vì giao dịch đã được ghi nhận, lịch trả góp và phí chuyển đổi vẫn tồn tại; Người mua vẫn phải theo dõi và thanh toán phần còn lại.
+
+TRƯỚC KHI HÓA ĐƠN PHÁT HÀNH
+Vào trang chủ SPayLater > Hóa đơn của tôi > hóa đơn chưa thanh toán gần nhất. Thông tin tại số tiền cần thanh toán có thể cho biết khoản hoàn đang chờ cấn trừ.
+
+TRONG NGÀY PHÁT HÀNH HÓA ĐƠN
+- Bài viết nêu việc cấn trừ diễn ra khoảng 04:00-12:00 trong ngày phát hành.
+- Thanh toán trước khi hệ thống cấn trừ có thể khiến Người mua phải trả toàn bộ hóa đơn; khoản hoàn sẽ chuyển sang kỳ sau.
+- Sau khi cấn trừ, chỉ cần trả số tiền còn lại. Phần hoàn dư tiếp tục chuyển sang các kỳ sau.
+
+KHI NÀO ĐƠN ĐƯỢC COI LÀ HOÀN THÀNH
+- Đơn Shopee: khi Người mua xác nhận đã nhận, hoặc sau một khoảng thời gian tự động kể từ giao thành công theo chính sách hiện hành.
+- Nạp thẻ/dịch vụ và giao dịch QR tại cửa hàng: sau khi thanh toán thành công.
+- ShopeeFood: sau khi giao thành công.
+
+KẾT LUẬN THỰC HÀNH
+Đối với SPayLater, “đã hoàn” không nhất thiết có nghĩa tiền được rút ra. Khoản hoàn thường dùng để giảm nghĩa vụ trên hóa đơn. Cần kiểm tra cả mục Giao dịch, Hóa đơn của tôi và khoản đã thanh toán/cấn trừ trước khi trả hóa đơn.
+
+======================================================================
+BẢNG MỐC THỜI GIAN QUAN TRỌNG
+======================================================================
+
+- 24 giờ: thời hạn yêu cầu với thực phẩm tươi/đông lạnh; thời gian thường thấy hoàn vào ShopeePay hoặc ghi nhận giao dịch SPayLater; thời hạn thường được yêu cầu để bổ sung bằng chứng.
+- 15 ngày: thời hạn phổ biến để tạo yêu cầu kể từ giao thành công; cũng áp dụng với đơn tự vận chuyển sau khi Người mua xác nhận nhận hàng.
+- 20 ngày: mốc tối đa cho đơn Người bán tự vận chuyển nếu Người mua không xác nhận nhận hàng, tính từ lúc lấy hàng thành công.
+- 3-5 ngày làm việc: thời gian Shopee thường xem xét yêu cầu; cũng là khoảng xử lý hỗ trợ phí tự gửi trong các trường hợp đủ điều kiện.
+- 6 ngày: thời gian thường phải hoàn tất gửi trả sau khi Shopee chấp nhận phương án trả hàng.
+- 48 giờ: thời gian thường hoàn lại mã giảm giá đủ điều kiện sau khi hoàn tiền được duyệt.
+- 2-5 ngày làm việc: hoàn về thẻ NAPAS.
+- 7 ngày làm việc: hoàn về tài khoản ban đầu với một số thanh toán qua ứng dụng ngân hàng.
+- 7-14 ngày làm việc: hoàn về thẻ tín dụng/ghi nợ, Apple Pay hoặc Google Pay.
+
+======================================================================
+CHECKLIST CHO NGƯỜI MUA
+======================================================================
+
+TRƯỚC KHI MỞ HÀNG
+[ ] Quay rõ sáu mặt kiện và mã vận đơn.
+[ ] Quay liên tục, đủ sáng, không cắt ghép.
+
+KHI PHÁT HIỆN VẤN ĐỀ
+[ ] Chụp/quay cận cảnh lỗi, số lượng, seal và phụ kiện.
+[ ] Giữ toàn bộ bao bì, hộp, tem, quà tặng và giấy tờ.
+[ ] Chọn đúng lý do khiếu nại.
+[ ] Gửi yêu cầu trong thời hạn.
+
+KHI SHOPEE XEM XÉT
+[ ] Kiểm tra thông báo và email mỗi ngày.
+[ ] Bổ sung bằng chứng đúng hạn.
+[ ] Không tự sửa chữa, sử dụng hoặc làm thay đổi sản phẩm.
+
+KHI ĐƯỢC YÊU CẦU GỬI TRẢ
+[ ] Kiểm tra hạn trả hàng.
+[ ] Quay video đóng gói.
+[ ] Dùng hộp vận chuyển bên ngoài.
+[ ] Trả đủ phụ kiện, tài liệu và quà tặng.
+[ ] Dán/ghi mã trên hộp vận chuyển, không làm hỏng hộp sản phẩm.
+[ ] Giữ hóa đơn và mã vận đơn đến khi nhận đủ tiền hoàn.
+
+KHI NHẬN TIỀN HOÀN
+[ ] Kiểm tra đúng kênh hoàn theo phương thức thanh toán.
+[ ] Chờ đủ thời gian ngân hàng xử lý.
+[ ] Với SPayLater, kiểm tra khoản cấn trừ trên hóa đơn, không chỉ mục giao dịch.
+[ ] Nếu quá hạn, chuẩn bị mã đơn, mã khiếu nại và bằng chứng để liên hệ Shopee.
+
+======================================================================
+GỢI Ý CHIA CHUNK CHO RAG
+======================================================================
+
+- Mỗi khối DOC_ID nên được lưu thành một document/chunk độc lập.
+- Metadata khuyến nghị: doc_id, category, title, source_url, retrieved_at=2026-09-20, language=vi, platform=Shopee Vietnam.
+- Với truy vấn về thời hạn, ưu tiên DOC 002, 004, 008 và 013.
+- Với truy vấn về đóng gói/gửi trả, ưu tiên DOC 009-011.
+- Với truy vấn đổi ý, ưu tiên DOC 001 và 003.
+- Với truy vấn hoàn tiền, ưu tiên DOC 013-014.
+- Luôn trả kèm URL nguồn và cảnh báo chính sách có thể thay đổi.
+
+HẾT TỆP
